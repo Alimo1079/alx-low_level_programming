@@ -1,0 +1,7 @@
+
+========== hello.c ==========
+hello.c:1: ERROR: spaces required around that '<' (ctx:WxV)
+hello.c:1: ERROR: spaces required around that '>' (ctx:VxE)
+hello.c:13: WARNING: Block comments use a trailing */ on a separate line
+hello.c:19: WARNING: Statements should start on a tabstop
+total: 2 errors, 2 warnings, 21 lines checked
